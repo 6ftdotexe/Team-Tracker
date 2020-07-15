@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Command line app to track a companies employee's role, pay, and manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6ftdotexe/employee-tracker.git"
+  },
+  "author": "Lance Page",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6ftdotexe/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/6ftdotexe/employee-tracker#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}
