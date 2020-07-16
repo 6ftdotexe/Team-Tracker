@@ -67,7 +67,3 @@
   ## Demo
   
   ## ![Team Tracker demo](./assets/demo.gif)
-  
-  ---
-
-# Team-Tracker
