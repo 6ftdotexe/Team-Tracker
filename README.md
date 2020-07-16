@@ -45,10 +45,6 @@
 
 ---
 
-  ## License
-
-  This project is licensed under the ISC license.
-
   ## Contributors
 
   - Lance Page
@@ -67,3 +63,16 @@
   ## Demo
   
   ## ![Team Tracker demo](./assets/demo.gif)
+  
+  ---
+  
+  ## Questions
+  
+  if you have questions please leave a comment.
+  
+  ---
+  
+   ## License
+
+  This project is licensed under the ISC license.
+
